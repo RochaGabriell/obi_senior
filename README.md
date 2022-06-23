@@ -6,7 +6,7 @@ _Repositório de soluções._
 
 - [OBI2021](#obi2021)
 
-### OBI2015
+### OBI2021
 - Modalidade Programação
   - Nível Sênior
     - [Primeira Fase](/obi_senior/2021/Fase 1/)
