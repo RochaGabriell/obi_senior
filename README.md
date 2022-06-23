@@ -9,12 +9,12 @@ _Repositório de soluções._
 ### OBI2021
 - Modalidade Programação
   - Nível Sênior
-    - [Primeira Fase](tree/master/2021/Fase_1)
+    - [Primeira Fase]
       - [x] Baralho
       - [ ] Tempo
       - [ ] Torneio
       - [ ] Zero
-    - [Segunda Fase](/obi_senior/2021/Fase_2/)
+    - [Segunda Fase]
       - [ ] Lista
       - [ ] MinMax
       - [ ] Passatempo
