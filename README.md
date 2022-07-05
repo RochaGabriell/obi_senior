@@ -9,7 +9,7 @@ _Repositório de soluções._
 ### OBI2021
 - Modalidade Programação
   - Nível Sênior
-    - [Primeira Fase]
+    - [Primeira Fase](https://github.com/RochaGabriell/obi_senior/tree/master/2021/Fase_1)
       - [x] Baralho
       - [ ] Tempo
       - [ ] Torneio
