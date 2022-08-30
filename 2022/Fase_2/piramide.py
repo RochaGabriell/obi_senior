@@ -8,7 +8,7 @@ for i in range(n):
     piramide.append(aux[:])
 
 if n % 2 == 0:
-    cont = int(n/2)
+    cont = int(n/2) 
 else:
     cont = n-1
 
